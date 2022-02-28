@@ -1,0 +1,4 @@
+! My custom filters for uBlock Origin
+
+! Twitter login bypass
+||twitter.com##+js(cookie-remover, guest_id)
